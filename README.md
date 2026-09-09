@@ -238,3 +238,6 @@ This repository serves as the official landing page for SQL Server Management St
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of SQL Server Management Studio today!**
+
+---
+**Last updated:** 2026-09-09 22:21:04 UTC
