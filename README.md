@@ -240,4 +240,4 @@ This repository serves as the official landing page for SQL Server Management St
 **Get the most recent version of SQL Server Management Studio today!**
 
 ---
-**Last updated:** 2026-09-19 13:46:04 UTC
+**Last updated:** 2026-09-19 17:03:36 UTC
